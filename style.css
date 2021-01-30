@@ -1,0 +1,31 @@
+
+#page1{
+    background: url(starry-sky-2051448_1920.jpg) fixed center center;
+    background-size: cover;
+    color:white;
+    text-align: center;
+    font-family: Lobster, serif;
+}
+.header{
+    
+}
+#error{
+    background-color: rgba( 221, 48, 48, 0.783 );
+    width: 50%;
+    margin:20px auto;
+    font-size:20px;
+    
+}
+#result{
+    font-size:50px;
+    background-color: rgba( 252, 252, 252, 0.238 );
+    padding: 5% 0;
+    
+}
+/* Hide the number input */
+.full-width-slider input {
+display: none !important;
+}
+.full-width-slider .ui-slider-track {
+margin-left: 15px;
+}
